@@ -31,7 +31,6 @@ Once you have generated twenty answers, look over your list and select one of th
 
 
 Audio:
-
 https://user-images.githubusercontent.com/105545947/219374992-848bf805-825f-44ee-9d10-69b0779010de.mp4
 
 
