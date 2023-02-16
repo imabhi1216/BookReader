@@ -1,7 +1,9 @@
 # BookReader
 
-Demo:
+Full description of project: https://medium.com/@imabhi1216/making-a-book-reader-bda392bf9876
 
+
+Demo:
 ![image](https://user-images.githubusercontent.com/105545947/219375096-48a3776b-a82e-4abd-aa3d-3c77fd4cb4be.png)
 
 Output: 
