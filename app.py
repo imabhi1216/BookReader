@@ -18,7 +18,7 @@ def pdf_to_text(pdf_file):
     
     # Allow user to select a range of pages to extract text from
     page = st.slider('Give the range of the Pages you want to access',0, pages, (25, 27 ))
-    page  = st.write("Selected Page range",page)
+    x  = st.write("Selected Page range",page)
     # Loop through each page in the range and extract the text using PyPDF2
     for num in tqdm(range(int(page[0]),int(page[1]))):
         Page=pdfreader.pages[num]
